@@ -53,5 +53,6 @@ public class Libro {
         //To change body of generated methods, choose Tools | Templates.
     }
   
-  
+  /*Aqui realize el cambio. Jordi "Obelizko"
+    */
 }
