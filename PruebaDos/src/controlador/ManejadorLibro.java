@@ -7,6 +7,7 @@ package controlador;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import javax.swing.JOptionPane;
 import modelo.RegistroLibros;
 import vista.GuiLibro;
 import vista.PanelBotonesAccion;
@@ -42,6 +43,7 @@ public class ManejadorLibro implements ActionListener {
            
             guiLibro.setVisible(false);
             System.out.println("");
+            JOptionPane.showMessageDialog(null,"oliiiiii");
         }
          
     }
