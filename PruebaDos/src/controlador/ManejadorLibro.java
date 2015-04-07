@@ -44,6 +44,7 @@ public class ManejadorLibro implements ActionListener {
             guiLibro.setVisible(false);
             System.out.println("");
             JOptionPane.showMessageDialog(null,"oliiiiii");
+            JOptionPane.showMessageDialog(null,"Hola que hace");
         }
          
     }
